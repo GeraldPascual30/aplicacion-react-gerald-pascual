@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">aplicacion-tarea</string>
+    <string name="title_activity_main">aplicacion-tarea</string>
+    <string name="package_name">edu.itla.geraldpascual.tareareact</string>
+    <string name="custom_url_scheme">edu.itla.geraldpascual.tareareact</string>
+</resources>

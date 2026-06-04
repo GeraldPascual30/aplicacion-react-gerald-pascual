@@ -117,7 +117,7 @@ function App() {
   // Cuando subas tu video a YouTube, pega solamente el ID del video aquí.
   // Ejemplo: https://www.youtube.com/watch?v=abc123
   // El ID sería: abc123
-  const videoYoutubeId = "";
+  const videoYoutubeId = "GS7Bf76ab40";
 
   const cambiarPagina = (pagina) => {
     setPaginaActual(pagina);
